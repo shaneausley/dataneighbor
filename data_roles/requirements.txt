@@ -1,0 +1,8 @@
+pandas
+matplotlib
+matplotlib-venn
+gspread
+oauth2client
+jupyter
+python-dotenv
+upsetplot
